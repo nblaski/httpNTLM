@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <ows_ID>3</ows_ID>
+  <ows_IDcopy>float;#0</ows_IDcopy>
+  <ows_CreatedCopy>datetime;#2017-10-06 16:48:54</ows_CreatedCopy>
+  <ows_Author>177;#Serwon, Stanley</ows_Author>
+  <ows_Customer>Xerox</ows_Customer>
+  <ows_Change_x0020_Type_x003a_>Non-Cosmetic -  Material, Press, Processing, Finished Good, Method, or Product Master Changes</ows_Change_x0020_Type_x003a_>
+  <ows_Stage>CLOSED Opportunity Lost</ows_Stage>
+  <ows_Created>2017-10-06 16:48:54</ows_Created>
+  <ows_Trial>Trial</ows_Trial>
+  <ows_Quote_x0020_Sent>2017-10-04 00:00:00</ows_Quote_x0020_Sent>
+  <ows_Order_x0020_Type>Sales Order</ows_Order_x0020_Type>
+  <ows_CSR>3;#Sabrina Guilmain</ows_CSR>
+  <ows_Engineer>4;#Stan Serwon</ows_Engineer>
+  <ows_Title>Walmart PopOut Shelftalkers</ows_Title>
+  <ows_Action_x0020_requested_x003a_>New Item - Copying does not obsolete previous</ows_Action_x0020_requested_x003a_>
+  <ows_Artwork_x0020_Sent_x0020_Via_x000>0</ows_Artwork_x0020_Sent_x0020_Via_x000>
+  <ows_Attachments>1</ows_Attachments>
+  <ows_Tooling_x002f_BOM_x0020_comments>190/13 NEEDS AMALGAMATED COATING ADDED TO BOM. 
+10/16/17 COATING STILL NOT IN BOM OR QAD. PROCESS ALONG PER JL. AS.
+COMPLETELY MISMANAGED-JAB 10/17/17</ows_Tooling_x002f_BOM_x0020_comments>
+  <ows_BOM_x0020_Updated_x002f_Created_>2017-10-13 00:00:00</ows_BOM_x0020_Updated_x002f_Created_>
+  <ows_ContentType>Item</ows_ContentType>
+  <ows_Finance_x0020_Approved>1</ows_Finance_x0020_Approved>
+  <ows_Conversion_x0020_Factor_x003a_>float;#0.00100000000000000</ows_Conversion_x0020_Factor_x003a_>
+  <ows_Cost_x0020_Rollup_x0020_Complete>2017-10-17 00:00:00</ows_Cost_x0020_Rollup_x0020_Complete>
+  <ows_CSR_x003a_CSR_x0020_Email>3;#sguilmain@cclind.com</ows_CSR_x003a_CSR_x0020_Email>
+  <ows_Date_x0020_Completed>2018-04-06 00:00:00</ows_Date_x0020_Completed>
+  <ows_Days_x0020_Open>float;#-181.299375000002</ows_Days_x0020_Open>
+  <ows_Due_x0020_Date>2017-11-02 00:00:00</ows_Due_x0020_Date>
+  <ows_Engineer_x003a_Engineer_x0020_Em>4;#sserwon@cclind.com</ows_Engineer_x003a_Engineer_x0020_Em>
+  <ows_New_x0020_F_x0020_numbers_x003a_>F000003562</ows_New_x0020_F_x0020_numbers_x003a_>
+  <ows_Internal_x0020_Proof_x0020_Appro>SJSerwon</ows_Internal_x0020_Proof_x0020_Appro>
+  <ows_Liner_x0020_Mark>1</ows_Liner_x0020_Mark>
+  <ows_Log_x0020_Number>1710016</ows_Log_x0020_Number>
+  <ows_New_x0020_PJ_x0020_Number>PJ2801</ows_New_x0020_PJ_x0020_Number>
+  <ows_New_x0020_PJ_x0020_Number_x0020_>2017-10-12 00:00:00</ows_New_x0020_PJ_x0020_Number_x0020_>
+  <ows_Non_x002d_Standard_x0020_Ink_x00>0</ows_Non_x002d_Standard_x0020_Ink_x00>
+  <ows_Overlay_x002f_Plates_x0020_Compl>2017-10-18 00:00:00</ows_Overlay_x002f_Plates_x0020_Compl>
+  <ows_Prepress_x0020_Tooling_x0020_Req>1</ows_Prepress_x0020_Tooling_x0020_Req>
+  <ows_Tenative_x0020_Press>Comco 3</ows_Tenative_x0020_Press>
+  <ows_Tenative_x0020_Press_x0020_Date>2017-10-18 00:00:00</ows_Tenative_x0020_Press_x0020_Date>
+  <ows_Pricing_x0020_Comments>&lt;div class="ExternalClass4682F485C5C84448B7217A0FD6719D05"&gt;&lt;html&gt;
+  &lt;p&gt;​Price quoted is 45%CM for 13.3MM annual volume.&amp;#160; Quote sheet and cost detail sheet are attached.&lt;/p&gt;
+&lt;/html&gt;&lt;/div&gt;</ows_Pricing_x0020_Comments>
+  <ows_Product_x0020_Activated_x003a_>2017-10-17 00:00:00</ows_Product_x0020_Activated_x003a_>
+  <ows_Change_x0020_From_x003a_>6Up white mylar Live Asle popout shelftalker to complement 8up version</ows_Change_x0020_From_x003a_>
+  <ows_LinkTitle>Walmart PopOut Shelftalkers</ows_LinkTitle>
+  <ows_LinkTitleNoMenu>Walmart PopOut Shelftalkers</ows_LinkTitleNoMenu>
+  <ows_Proof_x0020_Approved>2017-10-11 00:00:00</ows_Proof_x0020_Approved>
+  <ows_Artwork_x0020_Approved_x0020_By_>SJSerwon</ows_Artwork_x0020_Approved_x0020_By_>
+  <ows_Proof_x0020_Created_x003a_>2017-10-10 00:00:00</ows_Proof_x0020_Created_x003a_>
+  <ows_Artwork_x0020_Sent_x0020_Date_x0>2017-10-11 00:00:00</ows_Artwork_x0020_Sent_x0020_Date_x0>
+  <ows_Artwork_x0020_Sent_x0020_via_x00>E-mail</ows_Artwork_x0020_Sent_x0020_via_x00>
+  <ows_Approved_x0020_By_x003a_>hammill, susan</ows_Approved_x0020_By_x003a_>
+  <ows_Quality_x0020_Approved_x0020_Dat>2017-10-17 00:00:00</ows_Quality_x0020_Approved_x0020_Dat>
+  <ows_Quantity_x0020_per_x0020_Stock>1000</ows_Quantity_x0020_per_x0020_Stock>
+  <ows_Quote_x0020_Number_x003a_>KS8UP8511LAPOWT</ows_Quote_x0020_Number_x003a_>
+  <ows_Reason_x0020_for_x0020_change>npd</ows_Reason_x0020_for_x0020_change>
+  <ows_Product_x0020_Number_x0028_s_x00>F3048</ows_Product_x0020_Number_x0028_s_x00>
+  <ows_Trial_x0020_Result_x0020_Comment>&lt;div class="ExternalClass6F75795D24EC46189F3080654A922F79"&gt;&lt;html&gt;
+  &lt;p&gt;​We were not competitive with Xerox mark up.&lt;/p&gt;
+&lt;/html&gt;&lt;/div&gt;</ows_Trial_x0020_Result_x0020_Comment>
+  <ows_Tooling_x0020_comments>&lt;div class="ExternalClass81A1862DAE884CE68E7663296C7F672F"&gt;&lt;html&gt;
+  &lt;p&gt;​Dies will be in house on 10/17.&amp;#160; Do not know when Gary will have rings completed.&amp;#160; I requested Monday, 10/16/17&lt;/p&gt;
+&lt;/html&gt;&lt;/div&gt;</ows_Tooling_x0020_comments>
+  <ows_Tooling_x0020_Delivery_x0020_Dat>2017-10-17 00:00:00</ows_Tooling_x0020_Delivery_x0020_Dat>
+  <ows_Tooling_x0020_Purchase_x0020_Ord>P99758 &amp; Gary</ows_Tooling_x0020_Purchase_x0020_Ord>
+  <ows_Tooling_x0020_Requested_x0020_Da>2017-10-17 00:00:00</ows_Tooling_x0020_Requested_x0020_Da>
+  <ows_Type_x0020_of_x0020_Proof>PDF With CCL Logo</ows_Type_x0020_of_x0020_Proof>
+  <ows_Unit_x0020_of_x0020_Measure>Sheet</ows_Unit_x0020_of_x0020_Measure>
+  <ows__UIVersionString>21</ows__UIVersionString>
+  <ows_Sales_x0020_Order_x002f_Manual_x>101752</ows_Sales_x0020_Order_x002f_Manual_x>
+</root>

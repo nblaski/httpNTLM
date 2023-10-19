@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <ows_ID>4</ows_ID>
+  <ows_IDcopy>float;#0</ows_IDcopy>
+  <ows_CreatedCopy>datetime;#2017-10-09 11:59:18</ows_CreatedCopy>
+  <ows_Author>168;#Lipski, Eric</ows_Author>
+  <ows_Customer>Artemax Identiplus</ows_Customer>
+  <ows_Change_x0020_Type_x003a_>Cosmetic - Graphics(Copy and Color only), Labeling</ows_Change_x0020_Type_x003a_>
+  <ows_Stage>CLOSED New Item Completed</ows_Stage>
+  <ows_Created>2017-10-09 11:59:18</ows_Created>
+  <ows_Trial>Live</ows_Trial>
+  <ows_Order_x0020_Type>Sales Order</ows_Order_x0020_Type>
+  <ows_CSR>1;#Eric Lipski</ows_CSR>
+  <ows_Engineer>1;#Al Saskowski</ows_Engineer>
+  <ows_Action_x0020_requested_x003a_>Update Exisitng - Does not obsolete (BOM Update)</ows_Action_x0020_requested_x003a_>
+  <ows_Artwork_x0020_Sent_x0020_Via_x000>0</ows_Artwork_x0020_Sent_x0020_Via_x000>
+  <ows_Attachments>1</ows_Attachments>
+  <ows_Tooling_x002f_BOM_x0020_comments>ADD NEW PLATE TO BOM. CHANGE FACE STOCK AND ADD OVER PRINT TO BOM. AS</ows_Tooling_x002f_BOM_x0020_comments>
+  <ows_BOM_x0020_Updated_x002f_Created_>2017-10-11 00:00:00</ows_BOM_x0020_Updated_x002f_Created_>
+  <ows_ContentType>Item</ows_ContentType>
+  <ows_Finance_x0020_Approved>0</ows_Finance_x0020_Approved>
+  <ows_Conversion_x0020_Factor_x003a_>float;#0.00100000000000000</ows_Conversion_x0020_Factor_x003a_>
+  <ows_Cost_x0020_Rollup_x0020_Complete>2017-10-12 00:00:00</ows_Cost_x0020_Rollup_x0020_Complete>
+  <ows_CSR_x003a_CSR_x0020_Email>1;#elipski@cclind.com</ows_CSR_x003a_CSR_x0020_Email>
+  <ows_Date_x0020_Completed>2020-01-24 00:00:00</ows_Date_x0020_Completed>
+  <ows_Days_x0020_Open>float;#-836.500486111108</ows_Days_x0020_Open>
+  <ows_Due_x0020_Date>2017-10-13 00:00:00</ows_Due_x0020_Date>
+  <ows_Engineer_x003a_Engineer_x0020_Em>1;#asaskowski@cclind.com</ows_Engineer_x003a_Engineer_x0020_Em>
+  <ows_New_x0020_F_x0020_numbers_x003a_>F000003520</ows_New_x0020_F_x0020_numbers_x003a_>
+  <ows_Internal_x0020_Proof_x0020_Appro>Eric Lipski</ows_Internal_x0020_Proof_x0020_Appro>
+  <ows_Log_x0020_Number>1710017</ows_Log_x0020_Number>
+  <ows_New_x0020_PJ_x0020_Number>PJ2763</ows_New_x0020_PJ_x0020_Number>
+  <ows_New_x0020_PJ_x0020_Number_x0020_>2017-10-11 00:00:00</ows_New_x0020_PJ_x0020_Number_x0020_>
+  <ows_Non_x002d_Standard_x0020_Ink_x00>0</ows_Non_x002d_Standard_x0020_Ink_x00>
+  <ows_Overlay_x002f_Plates_x0020_Compl>2017-10-13 00:00:00</ows_Overlay_x002f_Plates_x0020_Compl>
+  <ows_PJ_x0020_Number>PJ2763</ows_PJ_x0020_Number>
+  <ows_Prepress_x0020_Tooling_x0020_Req>0</ows_Prepress_x0020_Tooling_x0020_Req>
+  <ows_Tenative_x0020_Press>Comco 5</ows_Tenative_x0020_Press>
+  <ows_Tenative_x0020_Press_x0020_Date>2017-10-19 00:00:00</ows_Tenative_x0020_Press_x0020_Date>
+  <ows_Pricing_x0020_Comments>&lt;div class="ExternalClassD19DD6E1EF3C45DB96BB312838517153"&gt;&lt;html&gt;
+  &lt;p&gt;No price change to customer.&amp;#160; Sappi face change requires topcoat.&amp;#160; Adds ​$2.70/carton.&amp;#160; Per JL Sappi/LM to keep us whole for coating cost.&lt;/p&gt;
+&lt;/html&gt;&lt;/div&gt;</ows_Pricing_x0020_Comments>
+  <ows_Product_x0020_Activated_x003a_>2017-10-12 00:00:00</ows_Product_x0020_Activated_x003a_>
+  <ows_Proof_x0020_Approved>2017-10-10 00:00:00</ows_Proof_x0020_Approved>
+  <ows_Artwork_x0020_Approved_x0020_By_>Bethany Gannon</ows_Artwork_x0020_Approved_x0020_By_>
+  <ows_Proof_x0020_Created_x003a_>2017-10-10 00:00:00</ows_Proof_x0020_Created_x003a_>
+  <ows_Artwork_x0020_Sent_x0020_Date_x0>2017-10-10 00:00:00</ows_Artwork_x0020_Sent_x0020_Date_x0>
+  <ows_Artwork_x0020_Sent_x0020_via_x00>E-mail</ows_Artwork_x0020_Sent_x0020_via_x00>
+  <ows_Approved_x0020_By_x003a_>hammill, susan</ows_Approved_x0020_By_x003a_>
+  <ows_Quality_x0020_Approved_x0020_Dat>2017-10-13 00:00:00</ows_Quality_x0020_Approved_x0020_Dat>
+  <ows_Quantity_x0020_per_x0020_Stock>1000</ows_Quantity_x0020_per_x0020_Stock>
+  <ows_Quote_x002f_Pricing_x0020_Approv>2017-10-10 00:00:00</ows_Quote_x002f_Pricing_x0020_Approv>
+  <ows_Reason_x0020_for_x0020_change>Remove Laserband Patent info from F3520-and change to Sappi face sheet</ows_Reason_x0020_for_x0020_change>
+  <ows_Product_x0020_Number_x0028_s_x00>F3520</ows_Product_x0020_Number_x0028_s_x00>
+  <ows_Trial_x0020_Result_x0020_Comment>&lt;div class="ExternalClass6B8BB69D8F8E424CAB6DB6E99C38C4B7"&gt;&lt;html&gt;
+  &lt;p&gt;​Customer placed order&lt;/p&gt;
+&lt;/html&gt;&lt;/div&gt;</ows_Trial_x0020_Result_x0020_Comment>
+  <ows_Tooling_x0020_Purchase_x0020_Ord>NA</ows_Tooling_x0020_Purchase_x0020_Ord>
+  <ows_Type_x0020_of_x0020_Proof>PDF With CCL Logo</ows_Type_x0020_of_x0020_Proof>
+  <ows_Unit_x0020_of_x0020_Measure>Sheet</ows_Unit_x0020_of_x0020_Measure>
+  <ows__UIVersionString>20</ows__UIVersionString>
+  <ows_Sales_x0020_Order_x002f_Manual_x>10170079</ows_Sales_x0020_Order_x002f_Manual_x>
+</root>

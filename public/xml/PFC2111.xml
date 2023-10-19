@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <ows_Title>Dunn liner replacement</ows_Title>
+  <ows_Due_x0020_Date>2023-03-15 00:00:00</ows_Due_x0020_Date>
+  <ows_Reason_x0020_for_x0020_change>Dunn doesn't make our liner anymore.</ows_Reason_x0020_for_x0020_change>
+  <ows_Change_x0020_From_x003a_>Replace Dunn liner with UPM for F2599.
+F2599 was not on the original list with PFC 2011
+110159 Dunn replaced by 1000052 UPM</ows_Change_x0020_From_x003a_>
+  <ows_Approved_x0020_By_x003a_>hammill,susan</ows_Approved_x0020_By_x003a_>
+  <ows_Change_x0020_Type_x003a_>Non-Cosmetic -  Material, Press, Processing, Finished Good, Method, or Product Master Changes</ows_Change_x0020_Type_x003a_>
+  <ows_Artwork_x0020_Sent_x0020_via_x00>E-mail</ows_Artwork_x0020_Sent_x0020_via_x00>
+  <ows_ContentTypeId>8.736831074195805e+40</ows_ContentTypeId>
+  <ows_Author>189;#Stroud, Doug</ows_Author>
+  <ows_Editor>189;#Stroud, Doug</ows_Editor>
+  <ows_Modified>2023-04-20 08:25:50</ows_Modified>
+  <ows_Created>2023-03-09 14:13:01</ows_Created>
+  <ows_Action_x0020_requested_x003a_>Update Exisitng - Does not obsolete (BOM Update)</ows_Action_x0020_requested_x003a_>
+  <ows_Type_x0020_of_x0020_Proof>Internal Proof ONLY</ows_Type_x0020_of_x0020_Proof>
+  <ows_Finance_x0020_Approved>0</ows_Finance_x0020_Approved>
+  <ows_Artwork_x0020_Sent_x0020_Via_x000>0</ows_Artwork_x0020_Sent_x0020_Via_x000>
+  <ows_Customer>PDC</ows_Customer>
+  <ows_Stage>CLOSED Changed Item Completed</ows_Stage>
+  <ows_BOM_x0020_Updated_x002f_Created_>2023-03-13 00:00:00</ows_BOM_x0020_Updated_x002f_Created_>
+  <ows_Overlay_x002f_Plates_x0020_Compl>2023-03-30 00:00:00</ows_Overlay_x002f_Plates_x0020_Compl>
+  <ows_Quality_x0020_Approved_x0020_Dat>2023-03-15 00:00:00</ows_Quality_x0020_Approved_x0020_Dat>
+  <ows_New_x0020_F_x0020_numbers_x003a_>F000002599.</ows_New_x0020_F_x0020_numbers_x003a_>
+  <ows_Product_x0020_Activated_x003a_>2023-03-13 00:00:00</ows_Product_x0020_Activated_x003a_>
+  <ows_Cost_x0020_Rollup_x0020_Complete>2023-03-13 00:00:00</ows_Cost_x0020_Rollup_x0020_Complete>
+  <ows_Pricing_x0020_Comments>&lt;div class="ExternalClass14FB735EC0224EA8A9F041BDE4EDB547"&gt;&lt;html&gt;
+  &lt;p&gt;UPM liner is slightly cheaper and should result in a $0.30/ctn material cost reduction.​&lt;/p&gt;
+&lt;/html&gt;&lt;/div&gt;</ows_Pricing_x0020_Comments>
+  <ows_Trial>Live</ows_Trial>
+  <ows_Date_x0020_Completed>2023-03-31 00:00:00</ows_Date_x0020_Completed>
+  <ows_Days_x0020_Open>float;#-21.4076273148166</ows_Days_x0020_Open>
+  <ows_Unit_x0020_of_x0020_Measure>Inner-Box</ows_Unit_x0020_of_x0020_Measure>
+  <ows_Tenative_x0020_Press_x0020_Date>2023-03-07 00:00:00</ows_Tenative_x0020_Press_x0020_Date>
+  <ows_Tenative_x0020_Press>5640/C7</ows_Tenative_x0020_Press>
+  <ows_Quote_x002f_Pricing_x0020_Approv>2023-03-09 00:00:00</ows_Quote_x002f_Pricing_x0020_Approv>
+  <ows_Tooling_x002f_BOM_x0020_comments>UPDATE LINER FROM 110159 TO 1000052 UPM</ows_Tooling_x002f_BOM_x0020_comments>
+  <ows_LinkTitleNoMenu>Dunn liner replacement</ows_LinkTitleNoMenu>
+  <ows_LinkTitle>Dunn liner replacement</ows_LinkTitle>
+  <ows_LinkTitle2>Dunn liner replacement</ows_LinkTitle2>
+  <ows_Sales_x0020_Order_x002f_Manual_x>1210072</ows_Sales_x0020_Order_x002f_Manual_x>
+  <ows_Order_x0020_Type>Sales Order</ows_Order_x0020_Type>
+  <ows_Conversion_x0020_Factor_x003a_>error;#0</ows_Conversion_x0020_Factor_x003a_>
+  <ows_PFCWorkf>5</ows_PFCWorkf>
+  <ows_CSR>2;#Keri Carpino</ows_CSR>
+  <ows_CSR_x003a_CSR_x0020_Email>2;#kcarpino@cclind.com</ows_CSR_x003a_CSR_x0020_Email>
+  <ows_Engineer>1;#Al Saskowski</ows_Engineer>
+  <ows_Engineer_x003a_Engineer_x0020_Em>1;#asaskowski@cclind.com</ows_Engineer_x003a_Engineer_x0020_Em>
+  <ows_Non_x002d_Standard_x0020_Ink_x00>0</ows_Non_x002d_Standard_x0020_Ink_x00>
+  <ows_Boxed_x0020_Unit_x0020_of_x0020_>Carton</ows_Boxed_x0020_Unit_x0020_of_x0020_>
+  <ows_IDcopy>float;#0</ows_IDcopy>
+  <ows_CreatedCopy>datetime;#2023-03-09 14:13:01</ows_CreatedCopy>
+  <ows_ID>2111</ows_ID>
+  <ows_ContentType>Item</ows_ContentType>
+  <ows_owshiddenversion>9</ows_owshiddenversion>
+  <ows_WorkflowVersion>1</ows_WorkflowVersion>
+  <ows__UIVersion>4608</ows__UIVersion>
+  <ows__UIVersionString>9</ows__UIVersionString>
+  <ows_Attachments>1</ows_Attachments>
+  <ows__ModerationStatus>0</ows__ModerationStatus>
+  <ows_SelectTitle>2111</ows_SelectTitle>
+  <ows_Order>211100</ows_Order>
+  <ows_GUID>{83F2A0CC-7444-4BB9-AC14-CA8160943402}</ows_GUID>
+  <ows_FileRef>2111;#PCC/Lists/PFC/2111_.000</ows_FileRef>
+  <ows_FileDirRef>2111;#PCC/Lists/PFC</ows_FileDirRef>
+  <ows_Last_x0020_Modified>2111;#2023-03-09 14:13:01</ows_Last_x0020_Modified>
+  <ows_Created_x0020_Date>2111;#2023-03-09 14:13:01</ows_Created_x0020_Date>
+  <ows_FSObjType>2111;#0</ows_FSObjType>
+  <ows_SortBehavior>2111;#0</ows_SortBehavior>
+  <ows_PermMask>1856438737919</ows_PermMask>
+  <ows_FileLeafRef>2111;#2111_.000</ows_FileLeafRef>
+  <ows_UniqueId>2111;#{C16BCD73-4371-4CEF-AC9E-2F3948BFE33C}</ows_UniqueId>
+  <ows_SyncClientId>2111;#</ows_SyncClientId>
+  <ows_ProgId>2111;#</ows_ProgId>
+  <ows_ScopeId>2111;#{A8F833A1-89AD-4E71-B7B9-E502AA16593C}</ows_ScopeId>
+  <ows__EditMenuTableStart>2111_.000</ows__EditMenuTableStart>
+  <ows__EditMenuTableStart2>2111</ows__EditMenuTableStart2>
+  <ows__EditMenuTableEnd>2111</ows__EditMenuTableEnd>
+  <ows_LinkFilenameNoMenu>2111_.000</ows_LinkFilenameNoMenu>
+  <ows_LinkFilename>2111_.000</ows_LinkFilename>
+  <ows_LinkFilename2>2111_.000</ows_LinkFilename2>
+  <ows_ServerUrl>/PCC/Lists/PFC/2111_.000</ows_ServerUrl>
+  <ows_EncodedAbsUrl>http://lblbufsp2/PCC/Lists/PFC/2111_.000</ows_EncodedAbsUrl>
+  <ows_BaseName>2111_</ows_BaseName>
+  <ows_MetaInfo>2111;#</ows_MetaInfo>
+  <ows__Level>1</ows__Level>
+  <ows__IsCurrentVersion>1</ows__IsCurrentVersion>
+  <ows_ItemChildCount>2111;#0</ows_ItemChildCount>
+  <ows_FolderChildCount>2111;#0</ows_FolderChildCount>
+</root>

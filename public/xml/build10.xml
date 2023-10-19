@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    {"field1":{"d:FileSystemObjectType":{"#text":0,"m:type":"Edm.Int32"},"d:Id":{"#text":2,"m:type":"Edm.Int32"},"d:Title":"8Up
+    Walmart PopOut TO-Style
+    Shelftalkers","d:Product_x0020_Number_x0028_s_x00":"F3048","d:Quote_x0020_Number_x003a_":"KS8UP8511LAPOWT","d:Due_x0020_Date":{"#text":"2017-11-06T05:00:00Z","m:type":"Edm.DateTime"},"d:Reason_x0020_for_x0020_change":{"m:null":true},"d:Change_x0020_From_x003a_":"Use
+    Office Depot PopOut design to create new design for
+    walmart","d:Approved_x0020_By_x003a_":"hammill, susan","d:Change_x0020_Type_x003a_":"Cosmetic -
+    Graphics(Copy and Color only),
+    Labeling","d:PJ_x0020_Number":{"m:null":true},"d:Liner_x0020_Mark":{"#text":true,"m:type":"Edm.Boolean"},"d:Artwork_x0020_Sent_x0020_Date_x0":{"#text":"2017-10-11T04:00:00Z","m:type":"Edm.DateTime"},"d:Artwork_x002f_Customer_x0020_Com":{"m:null":true},"d:Proof_x0020_Approved":{"#text":"2017-10-11T04:00:00Z","m:type":"Edm.DateTime"},"d:Artwork_x0020_Approved_x0020_By_":"SJSerwon","d:Artwork_x0020_Sent_x0020_via_x00":"E-mail","d:Proof_x0020_Created_x003a_":{"#text":"2017-10-06T04:00:00Z","m:type":"Edm.DateTime"},"d:ContentTypeId":8.736831074195805e+40,"d:AuthorId":{"#text":177,"m:type":"Edm.Int32"},"d:EditorId":{"#text":105,"m:type":"Edm.Int32"},"d:Modified":{"#text":"2020-01-28T14:42:55Z","m:type":"Edm.DateTime"},"d:Created":{"#text":"2017-10-05T21:15:31Z","m:type":"Edm.DateTime"},"d:Action_x0020_requested_x003a_":"New
+    Item - Copying does not obsolete
+    previous","d:Log_x0020_Number":1710006,"d:Type_x0020_of_x0020_Proof":"PDF With CCL
+    Logo","d:Finance_x0020_Approved":{"#text":true,"m:type":"Edm.Boolean"},"d:Artwork_x0020_Sent_x0020_Via_x000":{"#text":false,"m:type":"Edm.Boolean"},"d:Customer":"Xerox","d:Comments_x0020_to_x0020_PrePress":{"m:null":true},"d:Stage":"CLOSED
+    Quote
+    Lost","d:New_x0020_PJ_x0020_Number":"PJ2800","d:New_x0020_PJ_x0020_Number_x0020_":{"#text":"2017-10-12T04:00:00Z","m:type":"Edm.DateTime"},"d:BOM_x0020_Updated_x002f_Created_":{"#text":"2017-10-13T04:00:00Z","m:type":"Edm.DateTime"},"d:Tooling_x0020_Requested_x0020_Da":{"#text":"2017-10-16T04:00:00Z","m:type":"Edm.DateTime"},"d:Tooling_x0020_Delivery_x0020_Dat":{"#text":"2017-10-16T04:00:00Z","m:type":"Edm.DateTime"},"d:Tooling_x0020_Purchase_x0020_Ord":{"#text":"P99756
+    and
+    Gary","xml:space":"preserve"},"d:Overlay_x002f_Plates_x0020_Compl":{"#text":"2017-10-17T04:00:00Z","m:type":"Edm.DateTime"},"d:Quality_x0020_Approved_x0020_Dat":{"#text":"2017-10-17T04:00:00Z","m:type":"Edm.DateTime"},"d:EmailSta":{"m:null":true},"d:New_x0020_F_x0020_numbers_x003a_":"F000003561","d:Product_x0020_Activated_x003a_":{"#text":"2017-10-17T04:00:00Z","m:type":"Edm.DateTime"},"d:Cost_x0020_Rollup_x0020_Complete":{"#text":"2017-10-17T04:00:00Z","m:type":"Edm.DateTime"},"d:Pricing_x0020_Comments":"&lt;div
+    class=\"ExternalClassB823C85B13494FAEB1952B0BD0574024\"&gt;&lt;html&gt;\n &lt;p&gt;​Quoting a
+    45% CM for the annual volume (13.3MM sheets).&amp;#160; Quote and cost detail sheet are
+    attached.&lt;/p&gt;\n&lt;/html&gt;&lt;/div&gt;","d:Trial":"Trial","d:Trial_x0020_Result_x0020_Comment":"&lt;div
+    class=\"ExternalClass6B410A578B04483B9421072D8360F930\"&gt;&lt;html&gt;\n &lt;p&gt;​We were not
+    competitive with Xerox
+    markup&lt;/p&gt;\n&lt;/html&gt;&lt;/div&gt;","d:Date_x0020_Completed":{"#text":"2018-04-06T04:00:00Z","m:type":"Edm.DateTime"},"d:Days_x0020_Open":-182.280891203707,"d:Unit_x0020_of_x0020_Measure":"Sheet","d:Tenative_x0020_Press_x0020_Date":{"#text":"2017-10-17T04:00:00Z","m:type":"Edm.DateTime"},"d:Tenative_x0020_Press":"Comco
+    3","d:Release_x0020_Date":{"m:null":true},"d:Quote_x002f_Pricing_x0020_Approv":{"m:null":true},"d:Quote_x0020_Sent":{"#text":"2017-10-04T04:00:00Z","m:type":"Edm.DateTime"},"d:Tooling_x002f_BOM_x0020_comments":"NEEDS
+    NEW COATING ADDED TO QAD AND BOM. \nFORM WAS PROCESSED ON PER JL. cOATING IS STILL NOT IN BOM.
+    10/16/1`7. AS\nCOMPLETELY MISMANAGED-JAB
+    10/17/17","d:PrePress_x0020_Comments":{"m:null":true},"d:Tooling_x0020_comments":"&lt;div
+    class=\"ExternalClass8D1B677AAAE44A19B5E109AB58EF9E38\"&gt;&lt;html&gt;\n &lt;p&gt;​Delivery
+    dates are for Rotometrics only - I do not know when Gary will have rings complete.&amp;#160;
+    Dies will ship NDA Early AM for Monday
+    morning.&lt;/p&gt;\n&lt;/html&gt;&lt;/div&gt;","d:Quantity_x0020_per_x0020_Stock":{"#text":1000,"m:type":"Edm.Double"},"d:Sales_x0020_Order_x002f_Manual_x":101751,"d:Order_x0020_Type":"Sales
+    Order","d:Conversion_x0020_Factor_x003a_":0.001,"d:PFCWorkf":{"m:null":true},"d:CSRId":{"#text":2,"m:type":"Edm.Int32"},"d:EngineerId":{"#text":4,"m:type":"Edm.Int32"},"d:Prepress_x0020_Tooling_x0020_Req":{"#text":true,"m:type":"Edm.Boolean"},"d:Non_x002d_Standard_x0020_Ink_x00":{"#text":false,"m:type":"Edm.Boolean"},"d:Internal_x0020_Proof_x0020_Appro":"SJSerwon","d:Engineer_x0020_Press_x0020_Side":{"m:null":true},"d:Margin_x0020_Percentage":{"m:null":true},"d:Boxed_x0020_Unit_x0020_of_x0020_":{"m:null":true},"d:HOLD_x0020_these_x0020_Item_x002":{"m:null":true},"d:CHEKHOLD_x0020_these_x0020_Item_":{"m:null":true},"d:Reason_x0020_for_x0020_HOLD_x002":{"m:null":true},"d:Is_x0020_A_x0020_HOLD_x002f_CHEK":{"m:null":true},"d:Hold_x0020_Completed_x0020_Date":{"m:null":true},"d:Customer_x0020_Service_x002f_Eng":{"m:null":true},"d:IDcopy":2,"d:CreatedCopy":"2017-10-05T21:15:31Z","d:ID":{"#text":2,"m:type":"Edm.Int32"},"d:OData__UIVersionString":19,"d:Attachments":{"#text":true,"m:type":"Edm.Boolean"},"d:GUID":{"#text":"12ccf149-54e4-4176-a3e3-dbacfe7f5f0c","m:type":"Edm.Guid"}},"field2":{"d:FileSystemObjectType":{"#text":0,"m:type":"Edm.Int32"},"d:Id":{"#text":3,"m:type":"Edm.Int32"},"d:Title":"Walmart
+    PopOut
+    Shelftalkers","d:Product_x0020_Number_x0028_s_x00":"F3048","d:Quote_x0020_Number_x003a_":"KS8UP8511LAPOWT","d:Due_x0020_Date":{"#text":"2017-11-02T04:00:00Z","m:type":"Edm.DateTime"},"d:Reason_x0020_for_x0020_change":"npd","d:Change_x0020_From_x003a_":"6Up
+    white mylar Live Asle popout shelftalker to complement 8up
+    version","d:Approved_x0020_By_x003a_":"hammill,
+    susan","d:Change_x0020_Type_x003a_":"Non-Cosmetic - Material, Press, Processing, Finished Good,
+    Method, or Product Master
+    Changes","d:PJ_x0020_Number":{"m:null":true},"d:Liner_x0020_Mark":{"#text":true,"m:type":"Edm.Boolean"},"d:Artwork_x0020_Sent_x0020_Date_x0":{"#text":"2017-10-11T04:00:00Z","m:type":"Edm.DateTime"},"d:Artwork_x002f_Customer_x0020_Com":{"m:null":true},"d:Proof_x0020_Approved":{"#text":"2017-10-11T04:00:00Z","m:type":"Edm.DateTime"},"d:Artwork_x0020_Approved_x0020_By_":"SJSerwon","d:Artwork_x0020_Sent_x0020_via_x00":"E-mail","d:Proof_x0020_Created_x003a_":{"#text":"2017-10-10T04:00:00Z","m:type":"Edm.DateTime"},"d:ContentTypeId":8.736831074195805e+40,"d:AuthorId":{"#text":177,"m:type":"Edm.Int32"},"d:EditorId":{"#text":172,"m:type":"Edm.Int32"},"d:Modified":{"#text":"2022-09-27T15:24:25Z","m:type":"Edm.DateTime"},"d:Created":{"#text":"2017-10-06T20:48:54Z","m:type":"Edm.DateTime"},"d:Action_x0020_requested_x003a_":"New
+    Item - Copying does not obsolete
+    previous","d:Log_x0020_Number":1710016,"d:Type_x0020_of_x0020_Proof":"PDF With CCL
+    Logo","d:Finance_x0020_Approved":{"#text":true,"m:type":"Edm.Boolean"},"d:Artwork_x0020_Sent_x0020_Via_x000":{"#text":false,"m:type":"Edm.Boolean"},"d:Customer":"Xerox","d:Comments_x0020_to_x0020_PrePress":{"m:null":true},"d:Stage":"CLOSED
+    Opportunity
+    Lost","d:New_x0020_PJ_x0020_Number":"PJ2801","d:New_x0020_PJ_x0020_Number_x0020_":{"#text":"2017-10-12T04:00:00Z","m:type":"Edm.DateTime"},"d:BOM_x0020_Updated_x002f_Created_":{"#text":"2017-10-13T04:00:00Z","m:type":"Edm.DateTime"},"d:Tooling_x0020_Requested_x0020_Da":{"#text":"2017-10-17T04:00:00Z","m:type":"Edm.DateTime"},"d:Tooling_x0020_Delivery_x0020_Dat":{"#text":"2017-10-17T04:00:00Z","m:type":"Edm.DateTime"},"d:Tooling_x0020_Purchase_x0020_Ord":"P99758
+    &amp;
+    Gary","d:Overlay_x002f_Plates_x0020_Compl":{"#text":"2017-10-18T04:00:00Z","m:type":"Edm.DateTime"},"d:Quality_x0020_Approved_x0020_Dat":{"#text":"2017-10-17T04:00:00Z","m:type":"Edm.DateTime"},"d:EmailSta":{"m:null":true},"d:New_x0020_F_x0020_numbers_x003a_":"F000003562","d:Product_x0020_Activated_x003a_":{"#text":"2017-10-17T04:00:00Z","m:type":"Edm.DateTime"},"d:Cost_x0020_Rollup_x0020_Complete":{"#text":"2017-10-17T04:00:00Z","m:type":"Edm.DateTime"},"d:Pricing_x0020_Comments":"&lt;div
+    class=\"ExternalClass4682F485C5C84448B7217A0FD6719D05\"&gt;&lt;html&gt;\n &lt;p&gt;​Price quoted
+    is 45%CM for 13.3MM annual volume.&amp;#160; Quote sheet and cost detail sheet are
+    attached.&lt;/p&gt;\n&lt;/html&gt;&lt;/div&gt;","d:Trial":"Trial","d:Trial_x0020_Result_x0020_Comment":"&lt;div
+    class=\"ExternalClass6F75795D24EC46189F3080654A922F79\"&gt;&lt;html&gt;\n &lt;p&gt;​We were not
+    competitive with Xerox mark
+    up.&lt;/p&gt;\n&lt;/html&gt;&lt;/div&gt;","d:Date_x0020_Completed":{"#text":"2018-04-06T04:00:00Z","m:type":"Edm.DateTime"},"d:Days_x0020_Open":-181.299375000002,"d:Unit_x0020_of_x0020_Measure":"Sheet","d:Tenative_x0020_Press_x0020_Date":{"#text":"2017-10-18T04:00:00Z","m:type":"Edm.DateTime"},"d:Tenative_x0020_Press":"Comco
+    3","d:Release_x0020_Date":{"m:null":true},"d:Quote_x002f_Pricing_x0020_Approv":{"m:null":true},"d:Quote_x0020_Sent":{"#text":"2017-10-04T04:00:00Z","m:type":"Edm.DateTime"},"d:Tooling_x002f_BOM_x0020_comments":"190/13
+    NEEDS AMALGAMATED COATING ADDED TO BOM. \n10/16/17 COATING STILL NOT IN BOM OR QAD. PROCESS
+    ALONG PER JL. AS.\nCOMPLETELY MISMANAGED-JAB
+    10/17/17","d:PrePress_x0020_Comments":{"m:null":true},"d:Tooling_x0020_comments":"&lt;div
+    class=\"ExternalClass81A1862DAE884CE68E7663296C7F672F\"&gt;&lt;html&gt;\n &lt;p&gt;​Dies will be
+    in house on 10/17.&amp;#160; Do not know when Gary will have rings completed.&amp;#160; I
+    requested Monday,
+    10/16/17&lt;/p&gt;\n&lt;/html&gt;&lt;/div&gt;","d:Quantity_x0020_per_x0020_Stock":{"#text":1000,"m:type":"Edm.Double"},"d:Sales_x0020_Order_x002f_Manual_x":101752,"d:Order_x0020_Type":"Sales
+    Order","d:Conversion_x0020_Factor_x003a_":0.001,"d:PFCWorkf":{"m:null":true},"d:CSRId":{"#text":3,"m:type":"Edm.Int32"},"d:EngineerId":{"#text":4,"m:type":"Edm.Int32"},"d:Prepress_x0020_Tooling_x0020_Req":{"#text":true,"m:type":"Edm.Boolean"},"d:Non_x002d_Standard_x0020_Ink_x00":{"#text":false,"m:type":"Edm.Boolean"},"d:Internal_x0020_Proof_x0020_Appro":"SJSerwon","d:Engineer_x0020_Press_x0020_Side":{"m:null":true},"d:Margin_x0020_Percentage":{"m:null":true},"d:Boxed_x0020_Unit_x0020_of_x0020_":{"m:null":true},"d:HOLD_x0020_these_x0020_Item_x002":{"m:null":true},"d:CHEKHOLD_x0020_these_x0020_Item_":{"m:null":true},"d:Reason_x0020_for_x0020_HOLD_x002":{"m:null":true},"d:Is_x0020_A_x0020_HOLD_x002f_CHEK":{"m:null":true},"d:Hold_x0020_Completed_x0020_Date":{"m:null":true},"d:Customer_x0020_Service_x002f_Eng":{"m:null":true},"d:IDcopy":0,"d:CreatedCopy":"2017-10-06T20:48:54Z","d:ID":{"#text":3,"m:type":"Edm.Int32"},"d:OData__UIVersionString":21,"d:Attachments":{"#text":true,"m:type":"Edm.Boolean"},"d:GUID":{"#text":"210e8927-755e-4ecc-a713-01241c3a109a","m:type":"Edm.Guid"}},"field3":{"d:FileSystemObjectType":{"#text":0,"m:type":"Edm.Int32"},"d:Id":{"#text":4,"m:type":"Edm.Int32"},"d:Title":{"m:null":true},"d:Product_x0020_Number_x0028_s_x00":"F3520","d:Quote_x0020_Number_x003a_":{"m:null":true},"d:Due_x0020_Date":{"#text":"2017-10-13T04:00:00Z","m:type":"Edm.DateTime"},"d:Reason_x0020_for_x0020_change":"Remove
+    Laserband Patent info from F3520-and change to Sappi face
+    sheet","d:Change_x0020_From_x003a_":{"m:null":true},"d:Approved_x0020_By_x003a_":"hammill,
+    susan","d:Change_x0020_Type_x003a_":"Cosmetic - Graphics(Copy and Color only),
+    Labeling","d:PJ_x0020_Number":"PJ2763","d:Liner_x0020_Mark":{"m:null":true},"d:Artwork_x0020_Sent_x0020_Date_x0":{"#text":"2017-10-10T04:00:00Z","m:type":"Edm.DateTime"},"d:Artwork_x002f_Customer_x0020_Com":{"m:null":true},"d:Proof_x0020_Approved":{"#text":"2017-10-10T04:00:00Z","m:type":"Edm.DateTime"},"d:Artwork_x0020_Approved_x0020_By_":"Bethany
+    Gannon","d:Artwork_x0020_Sent_x0020_via_x00":"E-mail","d:Proof_x0020_Created_x003a_":{"#text":"2017-10-10T04:00:00Z","m:type":"Edm.DateTime"},"d:ContentTypeId":8.736831074195805e+40,"d:AuthorId":{"#text":168,"m:type":"Edm.Int32"},"d:EditorId":{"#text":172,"m:type":"Edm.Int32"},"d:Modified":{"#text":"2022-01-13T13:38:17Z","m:type":"Edm.DateTime"},"d:Created":{"#text":"2017-10-09T15:59:18Z","m:type":"Edm.DateTime"},"d:Action_x0020_requested_x003a_":"Update
+    Exisitng - Does not obsolete (BOM
+    Update)","d:Log_x0020_Number":1710017,"d:Type_x0020_of_x0020_Proof":"PDF With CCL
+    Logo","d:Finance_x0020_Approved":{"#text":false,"m:type":"Edm.Boolean"},"d:Artwork_x0020_Sent_x0020_Via_x000":{"#text":false,"m:type":"Edm.Boolean"},"d:Customer":"Artemax
+    Identiplus","d:Comments_x0020_to_x0020_PrePress":{"m:null":true},"d:Stage":"CLOSED New Item
+    Completed","d:New_x0020_PJ_x0020_Number":"PJ2763","d:New_x0020_PJ_x0020_Number_x0020_":{"#text":"2017-10-11T04:00:00Z","m:type":"Edm.DateTime"},"d:BOM_x0020_Updated_x002f_Created_":{"#text":"2017-10-11T04:00:00Z","m:type":"Edm.DateTime"},"d:Tooling_x0020_Requested_x0020_Da":{"m:null":true},"d:Tooling_x0020_Delivery_x0020_Dat":{"m:null":true},"d:Tooling_x0020_Purchase_x0020_Ord":"NA","d:Overlay_x002f_Plates_x0020_Compl":{"#text":"2017-10-13T04:00:00Z","m:type":"Edm.DateTime"},"d:Quality_x0020_Approved_x0020_Dat":{"#text":"2017-10-13T04:00:00Z","m:type":"Edm.DateTime"},"d:EmailSta":{"m:null":true},"d:New_x0020_F_x0020_numbers_x003a_":"F000003520","d:Product_x0020_Activated_x003a_":{"#text":"2017-10-12T04:00:00Z","m:type":"Edm.DateTime"},"d:Cost_x0020_Rollup_x0020_Complete":{"#text":"2017-10-12T04:00:00Z","m:type":"Edm.DateTime"},"d:Pricing_x0020_Comments":"&lt;div
+    class=\"ExternalClassD19DD6E1EF3C45DB96BB312838517153\"&gt;&lt;html&gt;\n &lt;p&gt;No price
+    change to customer.&amp;#160; Sappi face change requires topcoat.&amp;#160; Adds
+    ​$2.70/carton.&amp;#160; Per JL Sappi/LM to keep us whole for coating
+    cost.&lt;/p&gt;\n&lt;/html&gt;&lt;/div&gt;","d:Trial":"Live","d:Trial_x0020_Result_x0020_Comment":"&lt;div
+    class=\"ExternalClass6B8BB69D8F8E424CAB6DB6E99C38C4B7\"&gt;&lt;html&gt;\n &lt;p&gt;​Customer
+    placed
+    order&lt;/p&gt;\n&lt;/html&gt;&lt;/div&gt;","d:Date_x0020_Completed":{"#text":"2020-01-24T05:00:00Z","m:type":"Edm.DateTime"},"d:Days_x0020_Open":-836.500486111108,"d:Unit_x0020_of_x0020_Measure":"Sheet","d:Tenative_x0020_Press_x0020_Date":{"#text":"2017-10-19T04:00:00Z","m:type":"Edm.DateTime"},"d:Tenative_x0020_Press":"Comco
+    5","d:Release_x0020_Date":{"m:null":true},"d:Quote_x002f_Pricing_x0020_Approv":{"#text":"2017-10-10T04:00:00Z","m:type":"Edm.DateTime"},"d:Quote_x0020_Sent":{"m:null":true},"d:Tooling_x002f_BOM_x0020_comments":"ADD
+    NEW PLATE TO BOM. CHANGE FACE STOCK AND ADD OVER PRINT TO BOM.
+    AS","d:PrePress_x0020_Comments":{"m:null":true},"d:Tooling_x0020_comments":{"m:null":true},"d:Quantity_x0020_per_x0020_Stock":{"#text":1000,"m:type":"Edm.Double"},"d:Sales_x0020_Order_x002f_Manual_x":10170079,"d:Order_x0020_Type":"Sales
+    Order","d:Conversion_x0020_Factor_x003a_":0.001,"d:PFCWorkf":{"m:null":true},"d:CSRId":{"#text":1,"m:type":"Edm.Int32"},"d:EngineerId":{"#text":1,"m:type":"Edm.Int32"},"d:Prepress_x0020_Tooling_x0020_Req":{"#text":false,"m:type":"Edm.Boolean"},"d:Non_x002d_Standard_x0020_Ink_x00":{"#text":false,"m:type":"Edm.Boolean"},"d:Internal_x0020_Proof_x0020_Appro":"Eric
+    Lipski","d:Engineer_x0020_Press_x0020_Side":{"m:null":true},"d:Margin_x0020_Percentage":{"m:null":true},"d:Boxed_x0020_Unit_x0020_of_x0020_":{"m:null":true},"d:HOLD_x0020_these_x0020_Item_x002":{"m:null":true},"d:CHEKHOLD_x0020_these_x0020_Item_":{"m:null":true},"d:Reason_x0020_for_x0020_HOLD_x002":{"m:null":true},"d:Is_x0020_A_x0020_HOLD_x002f_CHEK":{"m:null":true},"d:Hold_x0020_Completed_x0020_Date":{"m:null":true},"d:Customer_x0020_Service_x002f_Eng":{"m:null":true},"d:IDcopy":0,"d:CreatedCopy":"2017-10-09T15:59:18Z","d:ID":{"#text":4,"m:type":"Edm.Int32"},"d:OData__UIVersionString":20,"d:Attachments":{"#text":true,"m:type":"Edm.Boolean"},"d:GUID":{"#text":"bda5846a-9d98-4236-9f69-328dda759197","m:type":"Edm.Guid"}}}</root>

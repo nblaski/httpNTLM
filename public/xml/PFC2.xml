@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <ows_ID>2111</ows_ID>
+  <ows_IDcopy>float;#0</ows_IDcopy>
+  <ows_CreatedCopy>datetime;#2023-03-09 14:13:01</ows_CreatedCopy>
+  <ows_Author>189;#Stroud, Doug</ows_Author>
+  <ows_Customer>PDC</ows_Customer>
+  <ows_Change_x0020_Type_x003a_>Non-Cosmetic -  Material, Press, Processing, Finished Good, Method, or Product Master Changes</ows_Change_x0020_Type_x003a_>
+  <ows_Stage>CLOSED Changed Item Completed</ows_Stage>
+  <ows_Created>2023-03-09 14:13:01</ows_Created>
+  <ows_Trial>Live</ows_Trial>
+  <ows_Order_x0020_Type>Sales Order</ows_Order_x0020_Type>
+  <ows_CSR>2;#Keri Carpino</ows_CSR>
+  <ows_Engineer>1;#Al Saskowski</ows_Engineer>
+  <ows_Title>Dunn liner replacement</ows_Title>
+  <ows_Boxed_x0020_Unit_x0020_of_x0020_>Carton</ows_Boxed_x0020_Unit_x0020_of_x0020_>
+  <ows_Action_x0020_requested_x003a_>Update Exisitng - Does not obsolete (BOM Update)</ows_Action_x0020_requested_x003a_>
+  <ows_Artwork_x0020_Sent_x0020_Via_x000>0</ows_Artwork_x0020_Sent_x0020_Via_x000>
+  <ows_Attachments>1</ows_Attachments>
+  <ows_Tooling_x002f_BOM_x0020_comments>UPDATE LINER FROM 110159 TO 1000052 UPM</ows_Tooling_x002f_BOM_x0020_comments>
+  <ows_BOM_x0020_Updated_x002f_Created_>2023-03-13 00:00:00</ows_BOM_x0020_Updated_x002f_Created_>
+  <ows_ContentType>Item</ows_ContentType>
+  <ows_Finance_x0020_Approved>0</ows_Finance_x0020_Approved>
+  <ows_Conversion_x0020_Factor_x003a_>error;#0</ows_Conversion_x0020_Factor_x003a_>
+  <ows_Cost_x0020_Rollup_x0020_Complete>2023-03-13 00:00:00</ows_Cost_x0020_Rollup_x0020_Complete>
+  <ows_CSR_x003a_CSR_x0020_Email>2;#kcarpino@cclind.com</ows_CSR_x003a_CSR_x0020_Email>
+  <ows_Date_x0020_Completed>2023-03-31 00:00:00</ows_Date_x0020_Completed>
+  <ows_Days_x0020_Open>float;#-21.4076273148166</ows_Days_x0020_Open>
+  <ows_Due_x0020_Date>2023-03-15 00:00:00</ows_Due_x0020_Date>
+  <ows_Engineer_x003a_Engineer_x0020_Em>1;#asaskowski@cclind.com</ows_Engineer_x003a_Engineer_x0020_Em>
+  <ows_New_x0020_F_x0020_numbers_x003a_>F000002599.</ows_New_x0020_F_x0020_numbers_x003a_>
+  <ows_Non_x002d_Standard_x0020_Ink_x00>0</ows_Non_x002d_Standard_x0020_Ink_x00>
+  <ows_Overlay_x002f_Plates_x0020_Compl>2023-03-30 00:00:00</ows_Overlay_x002f_Plates_x0020_Compl>
+  <ows_PFCWorkf>5</ows_PFCWorkf>
+  <ows_Tenative_x0020_Press>5640/C7</ows_Tenative_x0020_Press>
+  <ows_Tenative_x0020_Press_x0020_Date>2023-03-07 00:00:00</ows_Tenative_x0020_Press_x0020_Date>
+  <ows_Pricing_x0020_Comments>&lt;div class="ExternalClass14FB735EC0224EA8A9F041BDE4EDB547"&gt;&lt;html&gt;
+  &lt;p&gt;UPM liner is slightly cheaper and should result in a $0.30/ctn material cost reduction.​&lt;/p&gt;
+&lt;/html&gt;&lt;/div&gt;</ows_Pricing_x0020_Comments>
+  <ows_Product_x0020_Activated_x003a_>2023-03-13 00:00:00</ows_Product_x0020_Activated_x003a_>
+  <ows_Change_x0020_From_x003a_>Replace Dunn liner with UPM for F2599.
+F2599 was not on the original list with PFC 2011
+110159 Dunn replaced by 1000052 UPM</ows_Change_x0020_From_x003a_>
+  <ows_LinkTitle>Dunn liner replacement</ows_LinkTitle>
+  <ows_LinkTitleNoMenu>Dunn liner replacement</ows_LinkTitleNoMenu>
+  <ows_Artwork_x0020_Sent_x0020_via_x00>E-mail</ows_Artwork_x0020_Sent_x0020_via_x00>
+  <ows_Approved_x0020_By_x003a_>hammill,susan</ows_Approved_x0020_By_x003a_>
+  <ows_Quality_x0020_Approved_x0020_Dat>2023-03-15 00:00:00</ows_Quality_x0020_Approved_x0020_Dat>
+  <ows_Quote_x002f_Pricing_x0020_Approv>2023-03-09 00:00:00</ows_Quote_x002f_Pricing_x0020_Approv>
+  <ows_Reason_x0020_for_x0020_change>Dunn doesn't make our liner anymore.</ows_Reason_x0020_for_x0020_change>
+  <ows_Type_x0020_of_x0020_Proof>Internal Proof ONLY</ows_Type_x0020_of_x0020_Proof>
+  <ows_Unit_x0020_of_x0020_Measure>Inner-Box</ows_Unit_x0020_of_x0020_Measure>
+  <ows__UIVersionString>9</ows__UIVersionString>
+  <ows_Sales_x0020_Order_x002f_Manual_x>1210072</ows_Sales_x0020_Order_x002f_Manual_x>
+</root>

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HELLO httpntlm</h1>
+
+    <br><br><br>
+
+    <% data.forEach(data => { %>
+        <p1><b>List ID: <%= data.listId %></b></p1>
+        <br>
+        <p1>Author ID: <%= data.authorId %></p1>
+        <br>
+        <p1>Created By: <%= data.createdBy %></p1>
+        <br>
+        <p1>Modified Date: <%= data.modifiedDate %></p1>
+        <br>
+        <p1>Stage: <%= data.stage %></p1>
+        <br>
+        <p1>CSR: <%= data.CSR %></p1>
+        <br>
+        <p1>Title: <%= data.title %></p1>
+        <br>
+        <p1>Product Number: <%= data.productNumber %></p1>
+        <br>
+        <p1>Editor ID: <%= data.editorId %></p1>
+        <br>
+        <p1>Editor: <%= data.editor %></p1>
+        <br>
+        <p1>Quote Number: <%= data.quoteNumber %></p1>
+        <br>
+        <p1>Quote Date: <%= data.quoteDate %></p1>
+        <br>
+        <p1>Due Date: <%= data.dueDate %></p1>
+        <br>
+        <p1>Action Requested: <%= data.actionRequested %></p1>
+        <br>
+        <p1>Quality Approved By: <%= data.qualityApprovedBy %></p1>
+        <br>
+        <p1>Liner Mark: <%= data.linerMark %></p1>
+        <br>
+        <br>
+        <p1>Attachments:
+            <% var attachmentArray = data.attachments %>
+            <% for(var i=0; i<attachmentArray.length; i++) { %>
+                    <p>
+                        <%=[i]%>: 
+                        <br>
+                        File Name: <%= attachmentArray[i].fileName %>
+                        <br>
+                        URL: <%= attachmentArray[i].urlAttachment %>
+                    </p1>
+                <% } %>
+        </p1> 
+<br><br><br>
+    <% }) %>
+           
+    <!-- <% for(var i=0; i<data.length; i++) {%> -->
+        <!-- <p1><b>List ID: <%= data[i].listId %></b></p1>
+        <br>
+        <p1>Author ID: <%= data[i].authorID %></p1>
+        <br>
+        <p1>Created By: <%= data[i].createdBy %></p1>
+        <br>
+        <p1>Modified By: <%= data[i].modifiedBy %></p1>
+        <br>
+        <p1>Modified Date: <%= data[i].modifiedDate %></p1>
+        <br>
+        <p1>Stage: <%= data[i].stage %></p1>
+        <br>
+        <p1>CSR: <%= data[i].CSR %></p1>
+        <br>
+        <p1>Title: <%= data[i].title %></p1>
+        <br>
+        <p1>Product Number: <%= data[i].productNumber %></p1>
+        <br>
+        <p1>Editor ID: <%= data[i].editorId %></p1>
+        <br>
+        <p1>Editor: <%= data[i].editor %></p1>
+        <br>
+        <p1>Quote Number: <%= data[i].quoteNumber %></p1>
+        <br>
+        <p1>Quote Date: <%= data[i].quoteDate %></p1>
+        <br>
+        <p1>Due Date: <%= data[i].dueDate %></p1>
+        <br>
+        <p1>Action Requested: <%= data[i].actionRequested %></p1>
+        <br>
+        <p1>Quality Approved By: <%= data[i].qualityApprovedBy %></p1>
+        <br>
+        <p1>Liner Mark: <%= data[i].linerMark %></p1>
+        <br>
+        <br>
+        <p1>Attachments:
+            <% var attachmentArray = data[i].attachments %> -->
+            <!-- <% attachmentArray.forEach(attachment => { %>
+                <p><%= attachment.fileName %> , </p>
+            <% }) %> -->
+            
+            <!-- <% for(var i=0; i<attachmentArray.length; i++) { %>
+            
+            <p><%=[i]%>: <%= attachmentArray[i].fileName %> , </p>
+            <% } %> -->
+        </p1>
+        <br>
+        <br>
+        <br>
+
+     <% } %>
+<br>
+<br>
+
+<table id="id"></table>
+</body>
+</html>
+
+
+

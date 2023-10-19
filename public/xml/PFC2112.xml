@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <ows_Title>PJ2117 clean up</ows_Title>
+  <ows_Product_x0020_Number_x0028_s_x00>3507,</ows_Product_x0020_Number_x0028_s_x00>
+  <ows_Due_x0020_Date>2023-03-13 00:00:00</ows_Due_x0020_Date>
+  <ows_Reason_x0020_for_x0020_change>Assign TST  2SS2117 (SS Super Slick) a plate number.  Cover page should reflect ADH 967 not 988</ows_Reason_x0020_for_x0020_change>
+  <ows_Change_x0020_From_x003a_>Update PJ2117.</ows_Change_x0020_From_x003a_>
+  <ows_Change_x0020_Type_x003a_>Cosmetic - Graphics(Copy and Color only), Labeling</ows_Change_x0020_Type_x003a_>
+  <ows_Artwork_x0020_Sent_x0020_via_x00>E-mail</ows_Artwork_x0020_Sent_x0020_via_x00>
+  <ows_ContentTypeId>8.736831074195805e+40</ows_ContentTypeId>
+  <ows_Author>203;#Saint, Andre</ows_Author>
+  <ows_Editor>105;#Laski, Nicole</ows_Editor>
+  <ows_Modified>2023-03-22 13:22:35</ows_Modified>
+  <ows_Created>2023-03-13 09:59:47</ows_Created>
+  <ows_Action_x0020_requested_x003a_>Update Exisitng - Does not obsolete (BOM Update)</ows_Action_x0020_requested_x003a_>
+  <ows_Type_x0020_of_x0020_Proof>PDF With CCL Logo</ows_Type_x0020_of_x0020_Proof>
+  <ows_Finance_x0020_Approved>0</ows_Finance_x0020_Approved>
+  <ows_Artwork_x0020_Sent_x0020_Via_x000>0</ows_Artwork_x0020_Sent_x0020_Via_x000>
+  <ows_Customer>All  RO 3507 and alike</ows_Customer>
+  <ows_Stage>Engineering</ows_Stage>
+  <ows_Trial>Live</ows_Trial>
+  <ows_Days_x0020_Open>float;#44998.4165162037</ows_Days_x0020_Open>
+  <ows_Unit_x0020_of_x0020_Measure>Inner-Box</ows_Unit_x0020_of_x0020_Measure>
+  <ows_LinkTitleNoMenu>PJ2117 clean up</ows_LinkTitleNoMenu>
+  <ows_LinkTitle>PJ2117 clean up</ows_LinkTitle>
+  <ows_LinkTitle2>PJ2117 clean up</ows_LinkTitle2>
+  <ows_Order_x0020_Type>Manual Work Order</ows_Order_x0020_Type>
+  <ows_Conversion_x0020_Factor_x003a_>error;#0</ows_Conversion_x0020_Factor_x003a_>
+  <ows_PFCWorkf>5</ows_PFCWorkf>
+  <ows_CSR>2;#Keri Carpino</ows_CSR>
+  <ows_CSR_x003a_CSR_x0020_Email>2;#kcarpino@cclind.com</ows_CSR_x003a_CSR_x0020_Email>
+  <ows_Engineer>5;#Andre Saint</ows_Engineer>
+  <ows_Engineer_x003a_Engineer_x0020_Em>5;#asaint@cclind.com</ows_Engineer_x003a_Engineer_x0020_Em>
+  <ows_Boxed_x0020_Unit_x0020_of_x0020_>Carton</ows_Boxed_x0020_Unit_x0020_of_x0020_>
+  <ows_IDcopy>float;#0</ows_IDcopy>
+  <ows_CreatedCopy>datetime;#2023-03-13 09:59:47</ows_CreatedCopy>
+  <ows_ID>2112</ows_ID>
+  <ows_ContentType>Item</ows_ContentType>
+  <ows_owshiddenversion>2</ows_owshiddenversion>
+  <ows_WorkflowVersion>1</ows_WorkflowVersion>
+  <ows__UIVersion>1024</ows__UIVersion>
+  <ows__UIVersionString>2</ows__UIVersionString>
+  <ows_Attachments>0</ows_Attachments>
+  <ows__ModerationStatus>0</ows__ModerationStatus>
+  <ows_SelectTitle>2112</ows_SelectTitle>
+  <ows_Order>211200</ows_Order>
+  <ows_GUID>{1165D3C1-9C73-4214-A85B-2DFD8B0DEFFF}</ows_GUID>
+  <ows_FileRef>2112;#PCC/Lists/PFC/2112_.000</ows_FileRef>
+  <ows_FileDirRef>2112;#PCC/Lists/PFC</ows_FileDirRef>
+  <ows_Last_x0020_Modified>2112;#2023-03-13 09:59:47</ows_Last_x0020_Modified>
+  <ows_Created_x0020_Date>2112;#2023-03-13 09:59:47</ows_Created_x0020_Date>
+  <ows_FSObjType>2112;#0</ows_FSObjType>
+  <ows_SortBehavior>2112;#0</ows_SortBehavior>
+  <ows_PermMask>1856438737919</ows_PermMask>
+  <ows_FileLeafRef>2112;#2112_.000</ows_FileLeafRef>
+  <ows_UniqueId>2112;#{99F0EF01-045E-49D3-9E3C-BD0147A2DAA1}</ows_UniqueId>
+  <ows_SyncClientId>2112;#</ows_SyncClientId>
+  <ows_ProgId>2112;#</ows_ProgId>
+  <ows_ScopeId>2112;#{A8F833A1-89AD-4E71-B7B9-E502AA16593C}</ows_ScopeId>
+  <ows__EditMenuTableStart>2112_.000</ows__EditMenuTableStart>
+  <ows__EditMenuTableStart2>2112</ows__EditMenuTableStart2>
+  <ows__EditMenuTableEnd>2112</ows__EditMenuTableEnd>
+  <ows_LinkFilenameNoMenu>2112_.000</ows_LinkFilenameNoMenu>
+  <ows_LinkFilename>2112_.000</ows_LinkFilename>
+  <ows_LinkFilename2>2112_.000</ows_LinkFilename2>
+  <ows_ServerUrl>/PCC/Lists/PFC/2112_.000</ows_ServerUrl>
+  <ows_EncodedAbsUrl>http://lblbufsp2/PCC/Lists/PFC/2112_.000</ows_EncodedAbsUrl>
+  <ows_BaseName>2112_</ows_BaseName>
+  <ows_MetaInfo>2112;#</ows_MetaInfo>
+  <ows__Level>1</ows__Level>
+  <ows__IsCurrentVersion>1</ows__IsCurrentVersion>
+  <ows_ItemChildCount>2112;#0</ows_ItemChildCount>
+  <ows_FolderChildCount>2112;#0</ows_FolderChildCount>
+</root>

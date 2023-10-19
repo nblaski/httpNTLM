@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="http://lblbufsp2.ccllabel.cclind.net/PCC/_api/" xmlns="http://www.w3.org/2005/Atom"
+    xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+    xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata"
+    xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+    <id>9fe4de09-5c1a-4034-a97f-40f5488a49fc</id>
+    <title />
+    <updated>2023-04-28T20:07:29Z</updated>
+    <entry m:etag="&quot;19&quot;">
+        <id>Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)</id>
+        <category term="SP.Data.PFCListItem"
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles"
+            type="application/atom+xml;type=feed" title="AttachmentFiles"
+            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles">
+            <m:inline>
+                <feed>
+                    <id>2ceeb4f3-51da-47c4-a006-cd0547af19ef</id>
+                    <title />
+                    <updated>2023-04-28T20:07:29Z</updated>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('1710006
+                            - Walmart 8up PopOut Shelftalkers CUSTOMER.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('1710006%20-%20Walmart%208up%20PopOut%20Shelftalkers%20CUSTOMER.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710006 - Walmart 8up PopOut Shelftalkers CUSTOMER.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/2/1710006 - Walmart
+                                    8up PopOut Shelftalkers CUSTOMER.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('1710006
+                            - Walmart 8up PopOut Shelftalkers PRESS PROOF.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('1710006%20-%20Walmart%208up%20PopOut%20Shelftalkers%20PRESS%20PROOF.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710006 - Walmart 8up PopOut Shelftalkers PRESS
+                                    PROOF.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/2/1710006 - Walmart
+                                    8up PopOut Shelftalkers PRESS PROOF.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('1710006
+                            - Walmart 8up PopOut Shelftalkers.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('1710006%20-%20Walmart%208up%20PopOut%20Shelftalkers.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710006 - Walmart 8up PopOut Shelftalkers.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/2/1710006 - Walmart
+                                    8up PopOut Shelftalkers.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('1710006
+                            Walmart 8up PopOut Shelftalkers-1.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('1710006%20Walmart%208up%20PopOut%20Shelftalkers-1.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710006 Walmart 8up PopOut Shelftalkers-1.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/2/1710006 Walmart
+                                    8up PopOut Shelftalkers-1.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('F_3561
+                            and F_3562.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('F_3561%20and%20F_3562.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>F_3561 and F_3562.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/2/F_3561 and
+                                    F_3562.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('Xerox
+                            Canada Walmart Cost detail 6up 8up Paper Latex LiveAisle 100317.xlsx')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('Xerox%20Canada%20Walmart%20Cost%20detail%206up%208up%20Paper%20Latex%20LiveAisle%20100317.xlsx')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>Xerox Canada Walmart Cost detail 6up 8up Paper Latex
+                                    LiveAisle 100317.xlsx</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/2/Xerox Canada
+                                    Walmart Cost detail 6up 8up Paper Latex LiveAisle 100317.xlsx</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('Xerox
+                            Canada Walmart KS68UP8511PEELPOP 100417.xls')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(2)/AttachmentFiles('Xerox%20Canada%20Walmart%20KS68UP8511PEELPOP%20100417.xls')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>Xerox Canada Walmart KS68UP8511PEELPOP 100417.xls</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/2/Xerox Canada
+                                    Walmart KS68UP8511PEELPOP 100417.xls</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                </feed>
+            </m:inline>
+        </link>
+        <title />
+        <updated>2023-04-28T20:07:29Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Attachments m:type="Edm.Boolean">true</d:Attachments>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;21&quot;">
+        <id>Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)</id>
+        <category term="SP.Data.PFCListItem"
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles"
+            type="application/atom+xml;type=feed" title="AttachmentFiles"
+            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles">
+            <m:inline>
+                <feed>
+                    <id>49ce1265-bd07-4544-8deb-be9b969aff74</id>
+                    <title />
+                    <updated>2023-04-28T20:07:29Z</updated>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('1710016
+                            - Walmart 6up PopOut Shelftalkers.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('1710016%20-%20Walmart%206up%20PopOut%20Shelftalkers.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710016 - Walmart 6up PopOut Shelftalkers.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/3/1710016 - Walmart
+                                    6up PopOut Shelftalkers.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('1710016
+                            Walmart 6up PopOut Shelftalkers PRESS PROOF.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('1710016%20Walmart%206up%20PopOut%20Shelftalkers%20PRESS%20PROOF.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710016 Walmart 6up PopOut Shelftalkers PRESS PROOF.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/3/1710016 Walmart
+                                    6up PopOut Shelftalkers PRESS PROOF.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('1710016
+                            Walmart 6up PopOut Shelftalkers.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('1710016%20Walmart%206up%20PopOut%20Shelftalkers.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710016 Walmart 6up PopOut Shelftalkers.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/3/1710016 Walmart
+                                    6up PopOut Shelftalkers.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('1710016
+                            Walmart 6up PopOut Shelftalkers-1.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('1710016%20Walmart%206up%20PopOut%20Shelftalkers-1.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710016 Walmart 6up PopOut Shelftalkers-1.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/3/1710016 Walmart
+                                    6up PopOut Shelftalkers-1.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('F_3561
+                            and F_3562.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('F_3561%20and%20F_3562.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>F_3561 and F_3562.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/3/F_3561 and
+                                    F_3562.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('Xerox
+                            Canada Walmart Cost detail 6up Paper LiveAisle 100317.xlsx')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('Xerox%20Canada%20Walmart%20Cost%20detail%206up%20Paper%20LiveAisle%20100317.xlsx')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>Xerox Canada Walmart Cost detail 6up Paper LiveAisle
+                                    100317.xlsx</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/3/Xerox Canada
+                                    Walmart Cost detail 6up Paper LiveAisle 100317.xlsx</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('Xerox
+                            Canada Walmart KS68UP8511PEELPOP 100417.xls')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(3)/AttachmentFiles('Xerox%20Canada%20Walmart%20KS68UP8511PEELPOP%20100417.xls')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>Xerox Canada Walmart KS68UP8511PEELPOP 100417.xls</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/3/Xerox Canada
+                                    Walmart KS68UP8511PEELPOP 100417.xls</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                </feed>
+            </m:inline>
+        </link>
+        <title />
+        <updated>2023-04-28T20:07:29Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Attachments m:type="Edm.Boolean">true</d:Attachments>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;20&quot;">
+        <id>Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(4)</id>
+        <category term="SP.Data.PFCListItem"
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(4)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles"
+            type="application/atom+xml;type=feed" title="AttachmentFiles"
+            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(4)/AttachmentFiles">
+            <m:inline>
+                <feed>
+                    <id>78cf6f73-6e02-432a-a834-2de257db79a2</id>
+                    <title />
+                    <updated>2023-04-28T20:07:29Z</updated>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(4)/AttachmentFiles('1710017
+                            F3520 IDENTIPLUS.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(4)/AttachmentFiles('1710017%20F3520%20IDENTIPLUS.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710017 F3520 IDENTIPLUS.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/4/1710017 F3520
+                                    IDENTIPLUS.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(4)/AttachmentFiles('1710017
+                            F3520 IDENTIPLUS-1.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(4)/AttachmentFiles('1710017%20F3520%20IDENTIPLUS-1.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710017 F3520 IDENTIPLUS-1.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/4/1710017 F3520
+                                    IDENTIPLUS-1.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>
+                            http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(4)/AttachmentFiles('F_3520.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(4)/AttachmentFiles('F_3520.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>F_3520.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/4/F_3520.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(4)/AttachmentFiles('IdentiplusLZ10109_PJ2763_O
+                            CUST.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(4)/AttachmentFiles('IdentiplusLZ10109_PJ2763_O%20CUST.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>IdentiplusLZ10109_PJ2763_O CUST.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/4/IdentiplusLZ10109_PJ2763_O
+                                    CUST.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(4)/AttachmentFiles('IdentiplusLZ10109_PJ2763_O
+                            PRESS.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(4)/AttachmentFiles('IdentiplusLZ10109_PJ2763_O%20PRESS.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>IdentiplusLZ10109_PJ2763_O PRESS.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/4/IdentiplusLZ10109_PJ2763_O
+                                    PRESS.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                </feed>
+            </m:inline>
+        </link>
+        <title />
+        <updated>2023-04-28T20:07:29Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Attachments m:type="Edm.Boolean">true</d:Attachments>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;9&quot;">
+        <id>Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(5)</id>
+        <category term="SP.Data.PFCListItem"
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(5)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles"
+            type="application/atom+xml;type=feed" title="AttachmentFiles"
+            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(5)/AttachmentFiles">
+            <m:inline>
+                <feed>
+                    <id>4dd91bd9-de59-437c-84ac-b70e5dca6ec4</id>
+                    <title />
+                    <updated>2023-04-28T20:07:29Z</updated>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(5)/AttachmentFiles('1710022
+                            - Sobey''s New 12up Option 1.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(5)/AttachmentFiles('1710022%20-%20Sobey''s%20New%2012up%20Option%201.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710022 - Sobey's New 12up Option 1.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/5/1710022 - Sobey's
+                                    New 12up Option 1.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(5)/AttachmentFiles('1710022
+                            - Sobey''s New 12up Option 1.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(5)/AttachmentFiles('1710022%20-%20Sobey''s%20New%2012up%20Option%201.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710022 - Sobey's New 12up Option 1.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/5/1710022 - Sobey's
+                                    New 12up Option 1.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(5)/AttachmentFiles('1710022
+                            - Sobey''s New 12up Option 1-1.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(5)/AttachmentFiles('1710022%20-%20Sobey''s%20New%2012up%20Option%201-1.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710022 - Sobey's New 12up Option 1-1.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/5/1710022 - Sobey's
+                                    New 12up Option 1-1.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(5)/AttachmentFiles('Xerox
+                            Canada Sobeys PFC 5 1710022 101617.xlsx')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(5)/AttachmentFiles('Xerox%20Canada%20Sobeys%20PFC%205%201710022%20101617.xlsx')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>Xerox Canada Sobeys PFC 5 1710022 101617.xlsx</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/5/Xerox Canada
+                                    Sobeys PFC 5 1710022 101617.xlsx</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                </feed>
+            </m:inline>
+        </link>
+        <title />
+        <updated>2023-04-28T20:07:29Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Attachments m:type="Edm.Boolean">true</d:Attachments>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;7&quot;">
+        <id>Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(6)</id>
+        <category term="SP.Data.PFCListItem"
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(6)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles"
+            type="application/atom+xml;type=feed" title="AttachmentFiles"
+            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(6)/AttachmentFiles">
+            <m:inline>
+                <feed>
+                    <id>ee701f8c-b9c2-4950-a62f-19d34559db86</id>
+                    <title />
+                    <updated>2023-04-28T20:07:29Z</updated>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(6)/AttachmentFiles('1710023
+                            - Sobey''s New 12up Option 2.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(6)/AttachmentFiles('1710023%20-%20Sobey''s%20New%2012up%20Option%202.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710023 - Sobey's New 12up Option 2.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/6/1710023 - Sobey's
+                                    New 12up Option 2.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(6)/AttachmentFiles('1710023
+                            - Sobey''s New 12up Option 2-1.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(6)/AttachmentFiles('1710023%20-%20Sobey''s%20New%2012up%20Option%202-1.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710023 - Sobey's New 12up Option 2-1.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/6/1710023 - Sobey's
+                                    New 12up Option 2-1.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(6)/AttachmentFiles('1710023
+                            - Sobey''s New 15up Option 2-1.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(6)/AttachmentFiles('1710023%20-%20Sobey''s%20New%2015up%20Option%202-1.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710023 - Sobey's New 15up Option 2-1.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/6/1710023 - Sobey's
+                                    New 15up Option 2-1.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(6)/AttachmentFiles('Xerox
+                            Canada Sobeys PFC 6 1710023 101717.xlsx')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(6)/AttachmentFiles('Xerox%20Canada%20Sobeys%20PFC%206%201710023%20101717.xlsx')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>Xerox Canada Sobeys PFC 6 1710023 101717.xlsx</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/6/Xerox Canada
+                                    Sobeys PFC 6 1710023 101717.xlsx</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                </feed>
+            </m:inline>
+        </link>
+        <title />
+        <updated>2023-04-28T20:07:29Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Attachments m:type="Edm.Boolean">true</d:Attachments>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;7&quot;">
+        <id>Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(7)</id>
+        <category term="SP.Data.PFCListItem"
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(7)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles"
+            type="application/atom+xml;type=feed" title="AttachmentFiles"
+            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(7)/AttachmentFiles">
+            <m:inline>
+                <feed>
+                    <id>3a10817d-8c3e-4509-8467-17ea618fc869</id>
+                    <title />
+                    <updated>2023-04-28T20:07:29Z</updated>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(7)/AttachmentFiles('1710024
+                            - Sobey''s New 12up Option 3.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(7)/AttachmentFiles('1710024%20-%20Sobey''s%20New%2012up%20Option%203.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710024 - Sobey's New 12up Option 3.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/7/1710024 - Sobey's
+                                    New 12up Option 3.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(7)/AttachmentFiles('1710024
+                            Sobey''s New 12up Option 3-1.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(7)/AttachmentFiles('1710024%20Sobey''s%20New%2012up%20Option%203-1.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710024 Sobey's New 12up Option 3-1.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/7/1710024 Sobey's
+                                    New 12up Option 3-1.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(7)/AttachmentFiles('1710024
+                            Sobey''s New 12up Option 3-1.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(7)/AttachmentFiles('1710024%20Sobey''s%20New%2012up%20Option%203-1.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710024 Sobey's New 12up Option 3-1.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/7/1710024 Sobey's
+                                    New 12up Option 3-1.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(7)/AttachmentFiles('Xerox
+                            Canada Sobeys PFC 7 1710024 101617.xlsx')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(7)/AttachmentFiles('Xerox%20Canada%20Sobeys%20PFC%207%201710024%20101617.xlsx')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>Xerox Canada Sobeys PFC 7 1710024 101617.xlsx</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/7/Xerox Canada
+                                    Sobeys PFC 7 1710024 101617.xlsx</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                </feed>
+            </m:inline>
+        </link>
+        <title />
+        <updated>2023-04-28T20:07:29Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Attachments m:type="Edm.Boolean">true</d:Attachments>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;8&quot;">
+        <id>Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(8)</id>
+        <category term="SP.Data.PFCListItem"
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(8)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles"
+            type="application/atom+xml;type=feed" title="AttachmentFiles"
+            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(8)/AttachmentFiles">
+            <m:inline>
+                <feed>
+                    <id>6425db13-a03d-435b-a2ac-ce4b22bdf839</id>
+                    <title />
+                    <updated>2023-04-28T20:07:29Z</updated>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(8)/AttachmentFiles('1710020
+                            - Sobey''s New 8up Option 1.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(8)/AttachmentFiles('1710020%20-%20Sobey''s%20New%208up%20Option%201.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710020 - Sobey's New 8up Option 1.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/8/1710020 - Sobey's
+                                    New 8up Option 1.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(8)/AttachmentFiles('1710020
+                            Sobey''s New 8up Option 1-1.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(8)/AttachmentFiles('1710020%20Sobey''s%20New%208up%20Option%201-1.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710020 Sobey's New 8up Option 1-1.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/8/1710020 Sobey's
+                                    New 8up Option 1-1.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(8)/AttachmentFiles('1710020
+                            Sobey''s New 8up Option 1-1.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(8)/AttachmentFiles('1710020%20Sobey''s%20New%208up%20Option%201-1.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710020 Sobey's New 8up Option 1-1.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/8/1710020 Sobey's
+                                    New 8up Option 1-1.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(8)/AttachmentFiles('Xerox
+                            Canada Sobeys PFC 8 1710020 101617.xlsx')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(8)/AttachmentFiles('Xerox%20Canada%20Sobeys%20PFC%208%201710020%20101617.xlsx')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>Xerox Canada Sobeys PFC 8 1710020 101617.xlsx</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/8/Xerox Canada
+                                    Sobeys PFC 8 1710020 101617.xlsx</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                </feed>
+            </m:inline>
+        </link>
+        <title />
+        <updated>2023-04-28T20:07:29Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Attachments m:type="Edm.Boolean">true</d:Attachments>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;6&quot;">
+        <id>Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(9)</id>
+        <category term="SP.Data.PFCListItem"
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(9)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles"
+            type="application/atom+xml;type=feed" title="AttachmentFiles"
+            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(9)/AttachmentFiles">
+            <m:inline>
+                <feed>
+                    <id>cf2d7f99-dfc1-4a15-a59c-c2f9759d2ff2</id>
+                    <title />
+                    <updated>2023-04-28T20:07:29Z</updated>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(9)/AttachmentFiles('1710021
+                            - Sobey''s New 6up Option 2-1.xlsx')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(9)/AttachmentFiles('1710021%20-%20Sobey''s%20New%206up%20Option%202-1.xlsx')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710021 - Sobey's New 6up Option 2-1.xlsx</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/9/1710021 - Sobey's
+                                    New 6up Option 2-1.xlsx</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(9)/AttachmentFiles('1710021
+                            - Sobey''s New 8up Option 2.xlsx')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(9)/AttachmentFiles('1710021%20-%20Sobey''s%20New%208up%20Option%202.xlsx')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710021 - Sobey's New 8up Option 2.xlsx</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/9/1710021 - Sobey's
+                                    New 8up Option 2.xlsx</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(9)/AttachmentFiles('1710021
+                            PFC9 Sobey''s New 6up Option 2.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(9)/AttachmentFiles('1710021%20PFC9%20Sobey''s%20New%206up%20Option%202.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710021 PFC9 Sobey's New 6up Option 2.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/9/1710021 PFC9
+                                    Sobey's New 6up Option 2.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(9)/AttachmentFiles('Xerox
+                            Canada Sobeys PFC 9 1710021 101317.xlsx')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(9)/AttachmentFiles('Xerox%20Canada%20Sobeys%20PFC%209%201710021%20101317.xlsx')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>Xerox Canada Sobeys PFC 9 1710021 101317.xlsx</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/9/Xerox Canada
+                                    Sobeys PFC 9 1710021 101317.xlsx</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                </feed>
+            </m:inline>
+        </link>
+        <title />
+        <updated>2023-04-28T20:07:29Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Attachments m:type="Edm.Boolean">true</d:Attachments>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;20&quot;">
+        <id>Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)</id>
+        <category term="SP.Data.PFCListItem"
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles"
+            type="application/atom+xml;type=feed" title="AttachmentFiles"
+            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles">
+            <m:inline>
+                <feed>
+                    <id>bb1ee818-4707-422a-9bab-5e0c89dd6473</id>
+                    <title />
+                    <updated>2023-04-28T20:07:29Z</updated>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('1710065
+                            Whirlpool Findlay Energy Guide.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('1710065%20Whirlpool%20Findlay%20Energy%20Guide.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710065 Whirlpool Findlay Energy Guide.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/10/1710065 Whirlpool
+                                    Findlay Energy Guide.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('1710065
+                            Whirlpool Findlay Energy Guide-1.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('1710065%20Whirlpool%20Findlay%20Energy%20Guide-1.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710065 Whirlpool Findlay Energy Guide-1.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/10/1710065 Whirlpool
+                                    Findlay Energy Guide-1.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('1710065
+                            Whirlpool Findlay Energy Guide-2.xlsm')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('1710065%20Whirlpool%20Findlay%20Energy%20Guide-2.xlsm')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710065 Whirlpool Findlay Energy Guide-2.xlsm</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/10/1710065 Whirlpool
+                                    Findlay Energy Guide-2.xlsm</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('F_3330
+                            rev1.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('F_3330%20rev1.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>F_3330 rev1.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/10/F_3330 rev1.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>
+                            http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('F_3330.docx')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('F_3330.docx')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>F_3330.docx</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/10/F_3330.docx</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('Whirlpool
+                            Energy Guide Concept - 2 inch Rounded Tab - Tine Hole - Perm Adh patch
+                            for CAN.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('Whirlpool%20Energy%20Guide%20Concept%20-%202%20inch%20Rounded%20Tab%20-%20Tine%20Hole%20-%20Perm%20Adh%20patch%20for%20CAN.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>Whirlpool Energy Guide Concept - 2 inch Rounded Tab -
+                                    Tine Hole - Perm Adh patch for CAN.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/10/Whirlpool Energy
+                                    Guide Concept - 2 inch Rounded Tab - Tine Hole - Perm Adh patch
+                                    for CAN.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('whirlpool
+                            findlay energy guide cost detail PFC10 110117.xlsx')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('whirlpool%20findlay%20energy%20guide%20cost%20detail%20PFC10%20110117.xlsx')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>whirlpool findlay energy guide cost detail PFC10
+                                    110117.xlsx</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/10/whirlpool findlay
+                                    energy guide cost detail PFC10 110117.xlsx</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('Whirlpool
+                            Findlay Energy Guide KSFEGREVREV1 110217.xls')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('Whirlpool%20Findlay%20Energy%20Guide%20KSFEGREVREV1%20110217.xls')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>Whirlpool Findlay Energy Guide KSFEGREVREV1 110217.xls</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/10/Whirlpool Findlay
+                                    Energy Guide KSFEGREVREV1 110217.xls</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>
+                            http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('WhirlpoolEnergyGuide_PJ2234_O.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(10)/AttachmentFiles('WhirlpoolEnergyGuide_PJ2234_O.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>WhirlpoolEnergyGuide_PJ2234_O.pdf</d:FileName>
+                                <d:ServerRelativeUrl>
+                                    /PCC/Lists/PFC/Attachments/10/WhirlpoolEnergyGuide_PJ2234_O.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                </feed>
+            </m:inline>
+        </link>
+        <title />
+        <updated>2023-04-28T20:07:29Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Attachments m:type="Edm.Boolean">true</d:Attachments>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;19&quot;">
+        <id>Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)</id>
+        <category term="SP.Data.PFCListItem"
+            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles"
+            type="application/atom+xml;type=feed" title="AttachmentFiles"
+            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)/AttachmentFiles">
+            <m:inline>
+                <feed>
+                    <id>36f4a9af-5929-49a9-9979-319c2838149f</id>
+                    <title />
+                    <updated>2023-04-28T20:07:29Z</updated>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)/AttachmentFiles('1710070
+                            Domtar F508.xls')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)/AttachmentFiles('1710070%20Domtar%20F508.xls')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710070 Domtar F508.xls</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/11/1710070 Domtar
+                                    F508.xls</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)/AttachmentFiles('1710070
+                            Domtar F508-1.xls')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)/AttachmentFiles('1710070%20Domtar%20F508-1.xls')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710070 Domtar F508-1.xls</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/11/1710070 Domtar
+                                    F508-1.xls</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)/AttachmentFiles('1710070
+                            Xerox14UP_PJNEW_O.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)/AttachmentFiles('1710070%20Xerox14UP_PJNEW_O.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>1710070 Xerox14UP_PJNEW_O.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/11/1710070
+                                    Xerox14UP_PJNEW_O.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>
+                            http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)/AttachmentFiles('4515003_Liner.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)/AttachmentFiles('4515003_Liner.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>4515003_Liner.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/11/4515003_Liner.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)/AttachmentFiles('Cost
+                            Detail Domtar F508 PFC 11.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)/AttachmentFiles('Cost%20Detail%20Domtar%20F508%20PFC%2011.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>Cost Detail Domtar F508 PFC 11.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/11/Cost Detail
+                                    Domtar F508 PFC 11.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                    <entry>
+                        <id>http://lblbufsp2.ccllabel.cclind.net/PCC/_api/Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)/AttachmentFiles('Global
+                            Roll 11_3_17.pdf')</id>
+                        <category term="SP.Attachment"
+                            scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+                        <link rel="edit"
+                            href="Web/Lists(guid'13fc2605-48a0-4926-94e9-8f7206af9146')/Items(11)/AttachmentFiles('Global%20Roll%2011_3_17.pdf')" />
+                        <title />
+                        <updated>2023-04-28T20:07:29Z</updated>
+                        <author>
+                            <name />
+                        </author>
+                        <content type="application/xml">
+                            <m:properties>
+                                <d:FileName>Global Roll 11_3_17.pdf</d:FileName>
+                                <d:ServerRelativeUrl>/PCC/Lists/PFC/Attachments/11/Global Roll
+                                    11_3_17.pdf</d:ServerRelativeUrl>
+                            </m:properties>
+                        </content>
+                    </entry>
+                </feed>
+            </m:inline>
+        </link>
+        <title />
+        <updated>2023-04-28T20:07:29Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:Attachments m:type="Edm.Boolean">true</d:Attachments>
+            </m:properties>
+        </content>
+    </entry>
+    <link rel="next"
+        href="http://lblbufsp2.ccllabel.cclind.net/PCC/_api/web/lists/GetByTitle('PFC%20View%20Listing')/items?%24skiptoken=Paged%3dTRUE%26p_ID%3d11&amp;%24select=Attachments%2cAttachmentFiles&amp;%24expand=AttachmentFiles&amp;%24top=10" />
+</feed>
