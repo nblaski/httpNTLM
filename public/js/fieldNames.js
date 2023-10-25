@@ -84,13 +84,6 @@ let dFieldNames = [
 ]
 
 
-
-
-
-
-
-
-
 const fieldNames = {
     fileSystemObjectType: 'd:FileSystemObjectType', // { '#text': 0, 'm:type': 'Edm.Int32' }, 
     id: 'd:Id', //{ '#text': 6, 'm:type': 'Edm.Int32' },
@@ -141,11 +134,11 @@ const fieldNames = {
     dateCompleted: 'd:Date_x0020_Completed', // { 'm:null': true }
     daysOpen: 'd:Days_x0020_Open', // 43020.7123958333
     unitOfMeasure: 'd:Unit_x0020_of_x0020_Measure', // 'Sheet'
-    tenativePressDate: 'd:Tenative_x0020_Press_x0020_Date', // { 'm:null': true }
-    tenativePress: 'd:Tenative_x0020_Press', // { 'm:null': true }
+    tentativePressDate: 'd:Tenative_x0020_Press_x0020_Date', // { 'm:null': true }
+    tentativePress: 'd:Tenative_x0020_Press', // { 'm:null': true }
     releaseDate: 'd:Release_x0020_Date', // { 'm:null': true }
-    quotePricingApprived: 'd:Quote_x002f_Pricing_x0020_Approv', // { 'm:null': true }
-    quoteSend: 'd:Quote_x0020_Sent', // { 'm:null': true }
+    quotePricingApproved: 'd:Quote_x002f_Pricing_x0020_Approv', // { 'm:null': true }
+    quoteSent: 'd:Quote_x0020_Sent', // { 'm:null': true }
     toolingBomComments: 'd:Tooling_x002f_BOM_x0020_comments', // { 'm:null': true }
     prepressComments: 'd:PrePress_x0020_Comments', // { 'm:null': true }
     toolingComments: 'd:Tooling_x0020_comments', // { 'm:null': true }
@@ -176,20 +169,6 @@ const fieldNames = {
     guidNumber: 'd:GUID', // {'#text': 'fa43bb5a-b3a8-4d66-8e12-eb5a7c68e85b','m:type': 'Edm.Guid'}
     hashText: '#text',
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -276,6 +255,15 @@ const fieldNames2 = {
     versionString: 'OData__UIVersionString', // 7
     numOfAttachments: 'Attachments', //{ '#text': true, 'm:type': 'Edm.Boolean' }
     guidNumber: 'GUID', // {'#text': 'fa43bb5a-b3a8-4d66-8e12-eb5a7c68e85b','m:type': 'Edm.Guid'}
+    attachments: 'Attachments,AttachmentFiles,Editor/ID,Editor/Title,CSR/Title,Author/ID,Author/Title&$expand=AttachmentFiles,Author/ID,Author/Title,Editor/ID,Editor/Title,CSR,Engineer'
 }
 
-module.exports = { fieldNames, fieldNames2, dFieldNames }
+// let booleanFields = {}
+
+// let textFields = []
+
+
+// let dateFields = ['d:Due_x0020_Date', 'd:Created']
+
+
+module.exports = { fieldNames, fieldNames2, dFieldNames}

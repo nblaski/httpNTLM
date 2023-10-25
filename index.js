@@ -7,7 +7,10 @@ const bodyParser = require('body-parser');
 const { fieldNames } = require('./public/js/fieldNames.js');
 const { attachmentHttpRequest } = require('./public/js/attachmentHttpRequest.js')
 const { itemHttpRequest } = require('./public/js/itemHttpRequest.js')
+const { versions } = require('./public/js/versions.js')
 const fs = require('fs');
+const mongoose = require('mongoose');
+
 
 require('body-parser-xml')(bodyParser);
 
@@ -21,6 +24,19 @@ app.use(
       },
     }),
   );
+
+  const connectionParams={
+    // useNewUrlParser: true,
+    useUnifiedTopology: true 
+  }
+
+  mongoose.connect(process.env.DATABASE_URL,connectionParams)
+  .then( () => {
+      console.log('Connected to the database!')
+  })
+  .catch( (err) => {
+      console.error(`Error connecting to the database. n${err}`);
+  })
 
 
 app.set('view engine', 'ejs');
@@ -45,7 +61,10 @@ app.get('/', async (req, res) => {
   // console.log(dataAttachments)
 
   const data = await  itemHttpRequest();
-  res.render('index', { data: data } , )
+  // const version = await versions();
+
+  // res.render('index', { data: data } , )
+  res.render('test')
 
 
 

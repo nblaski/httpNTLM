@@ -12,6 +12,10 @@
     <br><br><br>
 
     <% data.forEach(data => { %>
+        <h4>Modified Date: <%= data.modifiedDate %></h4>
+        <h4>Stage</h4>
+
+        
         <p1><b>List ID: <%= data.listId %></b></p1>
         <br>
         <p1>Author ID: <%= data.authorId %></p1>
@@ -53,7 +57,7 @@
                         <br>
                         File Name: <%= attachmentArray[i].fileName %>
                         <br>
-                        URL: <%= attachmentArray[i].urlAttachment %>
+                        <a href="<%= attachmentArray[i].urlAttachment %>"><%= attachmentArray[i].fileName %></a>
                     </p1>
                 <% } %>
         </p1> 
